@@ -1,0 +1,20 @@
+Josue Guevara
+Thinkful - Capstone 1
+6/10/2021
+
+Business goal: can we affect profit margin by adjusting our fleets?
+Data Exploration - What is my model going to be about?
+The company wants to make better business decisions
+
+I’m going to look into each car and see how much each car is costing them
+I want to find out the best and worst selling car and improve profit margin.
+
+Come up with 2 strategies:
+-What if we stopped selling the worst selling car + and we increase profit margin 30% as a new KPI
+-What if we doubled the best selling car amount
+-Combined both strategies to see a better end result
+
+Present the analyzed data:
+-What cars on the fleet were the most booked - "Most popular amongst our clients" 
+-What Care on the fleet were the least booked and removed them from the fleet to help with cost
+-Are we able to have a trackable goal to achieve this. 1 year, 2 years?
